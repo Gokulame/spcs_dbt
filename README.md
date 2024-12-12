@@ -4,29 +4,29 @@
 * A note about dbt and Snowflake OAuth
 * Setting up Snowflake objects for dbt
 * Database and Schemas
-Virtual Warehouse
-Custom Role
-Setting up a working dbt repository
-Create a working directory and clone the repo
-Create a virtual env and install dbt
-Create a local dbt target
-Adjust the dbt project file
-Run dbt locally
-Containerise the dbt repository
-Note about Snowpark Authentication to Snowflake
-Create a snowpark dbt target
-Create a Docker Entrypoint Python File
-Add a requirements.txt file to the repo
-Create a Dockerfile
-Setting up Snowflake objects for Snowpark
-Compute Pool
-Image Repository
-Push Docker image to Snowpark
-Running containerised dbt in Snowpark
-Execute the Service
-Under the Hood
-Additional Considerations
-Logs, Scheduling, Error Notifications
-Access Persistent Logs
-Schedule Runs with Error Notifications
-Conclusion
+* Virtual Warehouse
+* Custom Role
+* Setting up a working dbt repository
+* Create a working directory and clone the repo
+* Create a virtual env and install dbt
+* Create a local dbt target
+* Adjust the dbt project file
+* Run dbt locally
+* Containerise the dbt repository
+* Note about Snowpark Authentication to Snowflake
+* Create a snowpark dbt target
+* Create a Docker Entrypoint Python File
+* Add a requirements.txt file to the repo
+* Create a Dockerfile
+* Setting up Snowflake objects for Snowpark
+* Compute Pool
+* Image Repository
+* Push Docker image to Snowpark
+* Running containerised dbt in Snowpark
+* Execute the Service
+* Under the Hood
+* Additional Considerations
+* Logs, Scheduling, Error Notifications
+* Access Persistent Logs
+* Schedule Runs with Error Notifications
+* Conclusion
