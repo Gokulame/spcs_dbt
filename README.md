@@ -1,9 +1,9 @@
-# spcs_dbtThis article will guide you through a step-by-step implementation of running dbt in Snowpark Container Services, covering everything from setup and containerisation all the way to scheduling and monitoring. If you’re trying to create a simple containerised dbt setup, this guide will help you put all theory into action!
+# This article will guide you through a step-by-step implementation of running dbt in Snowpark Container Services, covering everything from setup and containerisation all the way to scheduling and monitoring. If you’re trying to create a simple containerised dbt setup, this guide will help you put all theory into action!
 
-. Pre-requisites
-A note about dbt and Snowflake OAuth
-Setting up Snowflake objects for dbt
-Database and Schemas
+* Pre-requisites
+* A note about dbt and Snowflake OAuth
+* Setting up Snowflake objects for dbt
+* Database and Schemas
 Virtual Warehouse
 Custom Role
 Setting up a working dbt repository
