@@ -1,4 +1,4 @@
-# This repository will guide you through a step-by-step implementation of running dbt core (pre-release [https://github.com/dbt-labs/dbt-snowflake/releases/tag/v1.9.0b1]) in Snowpark Container Services, covering everything from setup and containerisation all the way to scheduling and monitoring. If you’re trying to create a simple containerised dbt setup, this guide will help you put all theory into action!
+# This repository will guide you through a step-by-step implementation of running dbt core pre-release [1.9.0b] (https://github.com/dbt-labs/dbt-snowflake/releases/tag/v1.9.0b1) in Snowpark Container Services, covering everything from setup and containerisation all the way to scheduling and monitoring. If you’re trying to create a simple containerised dbt setup, this guide will help you put all theory into action!
 
 * Pre-requisites
 * A note about dbt and Snowflake OAuth
